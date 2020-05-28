@@ -1,0 +1,26 @@
+{
+  "name": "lambda-template-node",
+  "version": "1.0.0",
+  "description": "Sample lambda function in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotiraj007/lambda-template-node.git"
+  },
+  "author": "Jyoti Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotiraj007/lambda-template-node/issues"
+  },
+  "homepage": "https://github.com/jyotiraj007/lambda-template-node#readme",
+  "dependencies": {
+    "@monotype/feature-vector-calculator": "^1.4.4",
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "fs-readdir-promise": "^1.0.1",
+    "http-status-codes": "^1.4.0"
+  }
+}
